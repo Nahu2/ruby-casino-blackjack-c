@@ -1,0 +1,8 @@
+RESULTS:Your hand: 
+ 9 3 3 10 
+Dealer's hand: 
+ 8 
+BUST!!! You went over 21. You Lost. 
+
+Players's score: 25
+Dealer's score: 8
